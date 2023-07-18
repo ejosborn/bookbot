@@ -1,6 +1,6 @@
 # Setting up BookBot
 
-This program takes in a text document and runs a series of methods on it.
+This program processes a text document by applying a series of methods to it.
 
 ## Methods
 ### Get_Book_Text:
